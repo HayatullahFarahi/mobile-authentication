@@ -177,16 +177,7 @@ class _MyAppPageState extends State<MyAppPage> {
             ,
             SizedBox(
               height: 10,
-            ),
-            // RaisedButton(
-            //   onPressed: () {
-            //     verifyPhone();
-            //   },
-            //   child: Text('Verify'),
-            //   textColor: Colors.white,
-            //   elevation: 7,
-            //   color: Colors.blue,
-            // )
+            ),          
             Material(
               elevation: 5.0,
               borderRadius: BorderRadius.circular(30.0),
