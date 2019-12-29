@@ -160,16 +160,6 @@ class _MyAppPageState extends State<MyAppPage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            // Padding(
-            //   padding: EdgeInsets.all(10),
-            //   child: TextField(
-            //     decoration: InputDecoration(
-            //         hintText: 'Enter Phone Number Eg. +910000000000'),
-            //     onChanged: (value) {
-            //       this.phoneNo = value;
-            //     },
-            //   ),
-            // ),
               Padding(
                 padding: EdgeInsets.all(10),
                 child: TextField(

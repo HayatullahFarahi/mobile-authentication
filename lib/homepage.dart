@@ -4,7 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 class MyHome extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MyHomePage(title: 'Flutter Demo Home Page');
+    return MyHomePage(title: 'Welcome');
   }
 }
 
